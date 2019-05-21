@@ -15,13 +15,13 @@ ___________________________________
 Choose to log in ( Teacher, Student )
 
 Logged in As Teacher
-create account
-login account
-add class
-click class
+1. create account
+2. login account
+3. add class
+4. click class
 
-Logged in as Student
-create account
-login account
-add class
-type code
+<br />Logged in as Student
+1. create account
+2. login account
+3. add class
+4. type code
