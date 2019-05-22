@@ -25,3 +25,8 @@ Logged in As Teacher
 2. login account
 3. add class
 4. type code
+
+<br/>
+
+heeder folder dapat naa htdocs or sa www sa webserver <br/>
+ThesisMobileFinal is the phonegap project
